@@ -46,7 +46,13 @@ footer{
 	color:#fff;
 	}
 
-
+.fa {
+  color: #ccc;
+  font-size: 30px;
+  padding: 5px;
+}
+.fa:hover{color:#fff;
+}
 
 #icon{
 	max-width:200px;
